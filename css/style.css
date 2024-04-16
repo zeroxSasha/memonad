@@ -2368,6 +2368,10 @@ a:active {
     -webkit-transform: translate(100px, 90px);
             transform: translate(100px, 90px);
   }
+  19% {
+    -webkit-transform: translate(117px, 130px);
+            transform: translate(117px, 130px);
+  }
   23% {
     -webkit-transform: translate(125px, 170px);
             transform: translate(125px, 170px);
@@ -2377,16 +2381,16 @@ a:active {
             transform: translate(100px, 240px);
   }
   55% {
-    -webkit-transform: translate(-190px, 240px);
-            transform: translate(-190px, 240px);
+    -webkit-transform: translate(-210px, 240px);
+            transform: translate(-210px, 240px);
   }
   63% {
-    -webkit-transform: translate(-230px, 170px);
-            transform: translate(-230px, 170px);
+    -webkit-transform: translate(-225px, 170px);
+            transform: translate(-225px, 170px);
   }
   75% {
-    -webkit-transform: translate(-190px, 85px);
-            transform: translate(-190px, 85px);
+    -webkit-transform: translate(-210px, 85px);
+            transform: translate(-210px, 85px);
   }
   95% {
     -webkit-transform: translate(-45px, 85px);
@@ -2414,6 +2418,10 @@ a:active {
     -webkit-transform: translate(100px, 90px);
             transform: translate(100px, 90px);
   }
+  19% {
+    -webkit-transform: translate(117px, 130px);
+            transform: translate(117px, 130px);
+  }
   23% {
     -webkit-transform: translate(125px, 170px);
             transform: translate(125px, 170px);
@@ -2423,16 +2431,16 @@ a:active {
             transform: translate(100px, 240px);
   }
   55% {
-    -webkit-transform: translate(-190px, 240px);
-            transform: translate(-190px, 240px);
+    -webkit-transform: translate(-210px, 240px);
+            transform: translate(-210px, 240px);
   }
   63% {
-    -webkit-transform: translate(-230px, 170px);
-            transform: translate(-230px, 170px);
+    -webkit-transform: translate(-225px, 170px);
+            transform: translate(-225px, 170px);
   }
   75% {
-    -webkit-transform: translate(-190px, 85px);
-            transform: translate(-190px, 85px);
+    -webkit-transform: translate(-210px, 85px);
+            transform: translate(-210px, 85px);
   }
   95% {
     -webkit-transform: translate(-45px, 85px);
